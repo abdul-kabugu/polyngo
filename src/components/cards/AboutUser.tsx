@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function AboutUser() {
   return (
-    <div>AboutUser</div>
+    <div className='font-mono'>COMING SOON..</div>
   )
 }
